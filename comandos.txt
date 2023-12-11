@@ -1,0 +1,11 @@
+
+
+git branch -M main
+   58  git config user.name
+   59  git config user.email
+   60  git init
+   61  git add .
+   62  git log
+   git remote add origin https://github.com/andremilanez71/aula_09.git
+   git branch -M main
+   git push -u origin main
