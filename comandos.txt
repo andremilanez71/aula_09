@@ -11,3 +11,4 @@ git push -u origin main
 
 
 git clone "repositorio remote"
+git pull (atualiza com o repositorio)
